@@ -20,4 +20,4 @@ Please deploy your finshed application to `heroku`, you can use this button to s
 
 # Additional info
 
-If you have any questions please feel free to contact us at justin@suplo.com
+If you have any questions please feel free to contact us at mario@suplo.com
