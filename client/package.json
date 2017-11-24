@@ -2,7 +2,7 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/ernestaspaznekas/improved-pancake",
+  "homepage": "https://ernestaspaznekas.github.io/improved-pancake",
   "dependencies": {
     "gh-pages": "^1.1.0",
     "react": "^16.1.1",
