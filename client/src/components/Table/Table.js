@@ -25,7 +25,7 @@ export default class Table extends React.Component {
           data={data}
           columns={[
             {
-              Header: "Id",
+              Header: "Nr",
               columns: [
                 {
                   Header: "Id",
